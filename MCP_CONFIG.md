@@ -27,7 +27,9 @@ claude mcp add zap uv run /path/to/mcp-zap/zap_mcp.py
 
 ## OpenOps
 
-**File:** `~/.openops/.mcp.json`
+**File:** `~/.openops/.openops.json`
+
+Add the `zap` entry inside the existing `mcpServers` block:
 
 ```json
 {
