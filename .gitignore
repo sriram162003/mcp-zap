@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+reports/
+.zap_api_key
+checklist_urls.txt
